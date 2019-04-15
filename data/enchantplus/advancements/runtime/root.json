@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:enchanting_table"
+		},
+		"title": {
+			"text": "java.datapack.enchantplus"
+		},
+		"description": {
+			"text": "Enchant+, 2.0.0"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"background": "minecraft:textures/block/bookshelf.png"
+	},
+	"criteria": {
+		"alwaystrigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
