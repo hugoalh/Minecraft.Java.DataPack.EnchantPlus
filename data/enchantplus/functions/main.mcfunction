@@ -1,2 +1,0 @@
-execute as @e[type=minecraft:item_frame,nbt={Facing:1b}] at @s if block ~ ~ ~ minecraft:enchanting_table if block ~ ~-1 ~ minecraft:dropper[facing=up] unless entity @e[type=minecraft:armor_stand,tag=enchantplus,distance=..64] run function enchantplus:structure/enchantstation/install
-execute as @e[type=minecraft:armor_stand,tag=enchantplus] at @s run function enchantplus:structure/enchantstation/verify

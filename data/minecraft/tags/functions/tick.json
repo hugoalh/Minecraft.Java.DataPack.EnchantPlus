@@ -1,7 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"enchantplus:main",
-		"enchantplus:scoreboard/statround"
+		"enchantplus:enchantstation/main",
+		"enchantplus:scoreboard/numberrounding"
 	]
 }

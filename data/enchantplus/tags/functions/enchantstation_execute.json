@@ -1,7 +1,7 @@
 {
 	"replace": false,
 	"values": [
-		"enchantplus:effect/enchantstation/general",
-		"enchantplus:recipe/enchantstation/input"
+		"enchantplus:enchantstation/effect/general",
+		"enchantplus:enchantstation/recipe/input"
 	]
 }
