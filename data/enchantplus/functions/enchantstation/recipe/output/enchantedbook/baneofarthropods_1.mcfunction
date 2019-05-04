@@ -25,6 +25,6 @@ execute if score @s enchantplus_ref = If_Book enchantplus_ref run data modify bl
 execute if score @s enchantplus_ref = If_EnchantedBook_Apply enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.StoredEnchantments[{id:"minecraft:bane_of_arthropods].lvl set value 1s
 execute if score @s enchantplus_ref = If_EnchantedBook_TierUp enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.StoredEnchantments[{id:"minecraft:bane_of_arthropods"}].lvl set value 2s
 execute if score @s enchantplus_ref = If_Item_Apply enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.Enchantments[{id:"minecraft:bane_of_arthropods].lvl set value 1s
-execute if score @s enchantplus_ref = If_Item_Apply enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.Enchantments[{id:"minecraft:bane_of_arthropods"}].lvl set value 2s
+execute if score @s enchantplus_ref = If_Item_TierUp enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.Enchantments[{id:"minecraft:bane_of_arthropods"}].lvl set value 2s
 scoreboard players reset @s enchantplus_ref
 function enchantplus:enchantstation/effect/output
