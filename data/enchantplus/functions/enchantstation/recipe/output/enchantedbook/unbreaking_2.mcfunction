@@ -3,6 +3,7 @@ data remove block ~ ~-1 ~ Items[{Slot:1b}]
 data remove block ~ ~-1 ~ Items[{Slot:2b}]
 data remove block ~ ~-1 ~ Items[{Slot:3b}]
 data remove block ~ ~-1 ~ Items[{Slot:5b}]
+data remove block ~ ~-1 ~ Items[{Slot:7b}]
 experience add @p -12 levels
 scoreboard players operation @s enchantplus_ref = If_Initial enchantplus_ref
 execute if data block ~ ~-1 ~ Items[{Slot:4b,id:"minecraft:book"}] unless data block ~ ~-1 ~ Items[{Slot:4b}].tag.Enchantments run data modify block ~ ~-1 ~ Items[{Slot:4b}] merge value {id:"minecraft:enchanted_book",Count:1b}
