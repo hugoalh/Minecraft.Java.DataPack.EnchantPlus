@@ -11,13 +11,13 @@ execute if data block ~ ~-1 ~ Items[{Slot:4b,id:"minecraft:enchanted_book",tag:{
 execute if data block ~ ~-1 ~ Items[{Slot:4b,id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:feather_falling",lvl:2s}]}}] run scoreboard players operation @s enchantplus_ref = If_EnchantedBook_Apply enchantplus_ref
 execute if data block ~ ~-1 ~ Items[{Slot:4b,id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:feather_falling",lvl:3s}]}}] run scoreboard players operation @s enchantplus_ref = If_EnchantedBook_Apply enchantplus_ref
 execute if data block ~ ~-1 ~ Items[{Slot:4b,id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:feather_falling",lvl:4s}]}}] run scoreboard players operation @s enchantplus_ref = If_EnchantedBook_TierUp enchantplus_ref
-execute if data block ~ ~-1 ~ Items[{Slot:4b,id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:feather_falling",lvl:5s}]}}] run scoreboard players operation @s enchantplus_ref = If_EnchantedBook_Useless enchantplus_ref
+execute if data block ~ ~-1 ~ Items[{Slot:4b,id:"minecraft:enchanted_book",tag:{StoredEnchantments:[{id:"minecraft:feather_falling",lvl:5s}]}}] run scoreboard players operation @s enchantplus_ref = If_Invalid enchantplus_ref
 execute if score @s enchantplus_ref = If_Initial enchantplus_ref run scoreboard players operation @s enchantplus_ref = If_Item_Apply enchantplus_ref
 execute if data block ~ ~-1 ~ Items[{Slot:4b,tag:{Enchantments:[{id:"minecraft:feather_falling",lvl:1s}]}}] run scoreboard players operation @s enchantplus_ref = If_Item_Apply enchantplus_ref
 execute if data block ~ ~-1 ~ Items[{Slot:4b,tag:{Enchantments:[{id:"minecraft:feather_falling",lvl:2s}]}}] run scoreboard players operation @s enchantplus_ref = If_Item_Apply enchantplus_ref
 execute if data block ~ ~-1 ~ Items[{Slot:4b,tag:{Enchantments:[{id:"minecraft:feather_falling",lvl:3s}]}}] run scoreboard players operation @s enchantplus_ref = If_Item_Apply enchantplus_ref
 execute if data block ~ ~-1 ~ Items[{Slot:4b,tag:{Enchantments:[{id:"minecraft:feather_falling",lvl:4s}]}}] run scoreboard players operation @s enchantplus_ref = If_Item_TierUp enchantplus_ref
-execute if data block ~ ~-1 ~ Items[{Slot:4b,tag:{Enchantments:[{id:"minecraft:feather_falling",lvl:5s}]}}] run scoreboard players operation @s enchantplus_ref = If_Item_Useless enchantplus_ref
+execute if data block ~ ~-1 ~ Items[{Slot:4b,tag:{Enchantments:[{id:"minecraft:feather_falling",lvl:5s}]}}] run scoreboard players operation @s enchantplus_ref = If_Invalid enchantplus_ref
 execute if score @s enchantplus_ref = If_EnchantedBook_Apply enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.StoredEnchantments[{id:"minecraft:feather_falling"}].lvl set value 4s
 execute if score @s enchantplus_ref = If_EnchantedBook_TierUp enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.StoredEnchantments[{id:"minecraft:feather_falling"}].lvl set value 5s
 execute if score @s enchantplus_ref = If_Item_Apply enchantplus_ref run data modify block ~ ~-1 ~ Items[{Slot:4b}].tag.Enchantments[{id:"minecraft:feather_falling"}].lvl set value 4s

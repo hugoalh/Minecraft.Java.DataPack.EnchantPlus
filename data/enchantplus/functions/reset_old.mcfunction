@@ -7,8 +7,9 @@ scoreboard players reset If_Initial
 scoreboard players reset If_Book
 scoreboard players reset If_EnchantedBook_Apply
 scoreboard players reset If_EnchantedBook_TierUp
+scoreboard players reset If_EnchantedBook_Useless
 scoreboard players reset If_Item_Apply
 scoreboard players reset If_Item_TierUp
-scoreboard players reset If_Invalid
+scoreboard players reset If_Item_Useless
 scoreboard objectives remove enchantplus_ref
 scoreboard objectives remove enchantplus_kbe
