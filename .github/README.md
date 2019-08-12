@@ -10,7 +10,7 @@
 
 ## Issue<br />問題
 
-Found any issue in this project? Submit the issue [via GitHub (require GitHub account)][issueform_github] or [via Google Forms (not require any account)][issurform_googleform].<br />在這個專案中發現任何問題？[通過GitHub（需要GitHub帳戶）][issueform_github]或[通過Google表單（不需要任何帳戶）][issurform_googleform]提交該問題。
+Found any issue in this project? Submit the issue via [GitHub (require GitHub account)][issueform_github] or [Google Forms (not require any account)][issurform_googleform].<br />在這個專案中發現任何問題？通過[GitHub（需要GitHub帳戶）][issueform_github]或[Google表單（不需要任何帳戶）][issurform_googleform]提交該問題。
 
 [issueform_github]: https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues
 [issurform_googleform]: https://goo.gl/forms/yoecFL5qJYVl2d0i2
