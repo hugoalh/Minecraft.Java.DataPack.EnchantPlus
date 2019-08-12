@@ -6,6 +6,7 @@
   <tr><td align="center"><strong>Index<br />索引</strong></td><td>hugoalh/Minecraft.Java.DataPack.EnchantPlus</td></tr>
   <tr><td align="center"><strong>Author<br />作者</strong></td><td>hugoalh</td></tr>
   <tr><td align="center"><strong>License<br />授權</strong></td><td>Public source; All rights reserved, unless otherwise explicitly stated<br />公開源碼；除非另有明確說明，否則保留所有權利</td></tr>
+  <tr><td align="center"><strong>Website<br />網站</strong></td><td><a href="https://www.curseforge.com/minecraft/customization/enchantplus">CurseForge</a></td></tr>
 </table>
 
 ## Issue<br />問題
