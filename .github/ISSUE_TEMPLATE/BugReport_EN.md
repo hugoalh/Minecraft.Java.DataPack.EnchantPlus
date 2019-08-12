@@ -26,11 +26,11 @@ Steps to reproduce the behavior:
 ## Expected Behavior
 
 ```
-A clear and concise description of what you expected to happen.
+A clear and concise description of what should expected to happen.
 ```
 
 ## Screenshot
 
 ```
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain the problem.
 ```
