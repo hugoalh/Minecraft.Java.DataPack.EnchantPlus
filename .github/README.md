@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://i.imgur.com/4RWjQBi.png" style="max-height: 64px;" /><br />Minecraft Java Data Pack: Enchant+<br />Minecraft Java資料包：附魔＋</div>
+# <div align="center"><img src="https://i.imgur.com/4RWjQBi.png" height="64px;" /><br />Minecraft Java Data Pack: Enchant+<br />Minecraft Java資料包：附魔＋</div>
 
 <table>
   <tr>
