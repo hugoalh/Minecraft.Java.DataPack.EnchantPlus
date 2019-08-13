@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+## Version
+
+```
+The version number where the bug is.
+```
+
 ## Describe Issue
 
 ```
@@ -28,8 +34,8 @@ A clear and concise description of what the bug is.
 A clear and concise description of what should expected to happen.
 ```
 
-## Screenshot
+## Screenshot (Optional)
 
 ```
-If applicable, add screenshots to help explain the problem.
+If applicable, attach screenshot to help explain the bug.
 ```
