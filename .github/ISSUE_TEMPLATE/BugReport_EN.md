@@ -7,10 +7,16 @@ assignees: ''
 
 ---
 
+## Minecraft Version
+
+```
+The Minecraft version number/code in using. If using any modification, list it here also (Example: Forge).
+```
+
 ## Version
 
 ```
-The version number where the bug is.
+The version number/code where the bug is.
 ```
 
 ## Describe Issue
