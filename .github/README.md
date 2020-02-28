@@ -121,4 +121,4 @@ This data pack is inspired from the listed project:
 
 ## 🐛 Issue
 
-Found any issue in this project? Submit the issue via [GitHub (require GitHub account)](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues) or [Google Forms (not require any account)](https://goo.gl/forms/yoecFL5qJYVl2d0i2).
+Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues) or [Google Forms](https://goo.gl/forms/yoecFL5qJYVl2d0i2).

@@ -121,4 +121,4 @@
 
 ## 🐛 問題
 
-在這個專案中發現任何問題？通過[GitHub（需要GitHub帳戶）](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues)或[Google表單（不需要任何帳戶）](https://goo.gl/forms/yoecFL5qJYVl2d0i2)提交該問題。
+在這個專案中發現任何問題？通過[GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues)或[Google表單](https://goo.gl/forms/yoecFL5qJYVl2d0i2)提交該問題。
