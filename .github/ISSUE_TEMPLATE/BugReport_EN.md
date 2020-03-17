@@ -4,44 +4,31 @@ about: Report a bug in English
 title: ''
 labels: ''
 assignees: ''
-
 ---
+## Description
 
-## Minecraft Version
 
-```
-The Minecraft version number/code in using. If using any modification, list it here also (Example: Forge).
-```
 
 ## Version
 
-```
-The version number/code where the bug is.
-```
+> [Optional] Version number/code is displayed when in the game using command `/datapack list` and hover this data pack, and at the advancement tab and hover this data pack. Leaving this slot blank will default to the newest released version.
 
-## Describe Issue
 
-```
-A clear and concise description of what the bug is.
-```
 
-## To Reproduce Issue
+## Minecraft Java Version
 
-```
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-```
+> [Optional] Minecraft Java version number/code is displayed at the window title, and at the bottom left in the game main menu; Snapshot version are not supposed to be her; If using any modification, also list it here (Example: Forge). Leaving this slot blank will default to the newest released version.
+
+
+
+## Step(s) To Reproduce Bug
+
+> [Optional] If this bug can be reproduce repeatly, please list your step(s)!
+
+
 
 ## Expected Behavior
 
-```
-A clear and concise description of what should expected to happen.
-```
+> [Optional] What thing(s) should expected to happen?
 
-## Screenshot (Optional)
 
-```
-If applicable, attach screenshot to help explain the bug.
-```
