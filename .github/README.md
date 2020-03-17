@@ -4,74 +4,59 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Index</strong></td>
+    <td align="center"><b>Index</b></td>
     <td>hugoalh/Minecraft.Java.DataPack.EnchantPlus</td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Author & Contributor</strong><br />
+      <b>Author & Contributor</b><br />
       <img src="https://img.shields.io/github/contributors/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" />
     </td>
-    <td>
-      <ul>
-        <li>hugoalh</li>
-      </ul>
-    </td>
+    <td><ul>
+      <li>hugoalh</li>
+    </ul></td>
   </tr>
   <tr>
-    <td align="center"><strong>Version</strong></td>
+    <td align="center"><b>Version</b></td>
     <td>
       <table>
         <tr align="center">
           <td></td>
-          <td><strong>Stable</strong></td>
-          <td><strong>Latest</strong></td>
-          <td><strong>Build</strong></td>
+          <td><b>Stable</b></td>
+          <td><b>Latest</b></td>
         </tr>
         <tr align="center">
-          <td><strong>Number / Code</strong></td>
+          <td><b>Number / Code</b></td>
           <td><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" /></td>
           <td><img src="https://img.shields.io/github/release/hugoalh/Minecraft.Java.DataPack.EnchantPlus?include_prereleases&color=000000&label=%20" /></td>
-          <td>-</td>
         </tr>
         <tr align="center">
-          <td><strong>Published Date</strong></td>
+          <td><b>Published Date</b></td>
           <td><img src="https://img.shields.io/github/release-date/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" /></td>
           <td><img src="https://img.shields.io/github/release-date-pre/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" /></td>
-          <td><img src="https://img.shields.io/github/last-commit/hugoalh/Minecraft.Java.DataPack.EnchantPlus/master?color=000000&label=%20" /></td>
         </tr>
       </table>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>License</strong></td>
+    <td align="center"><b>License</b></td>
     <td>Public source; All rights reserved, unless otherwise explicitly stated</td>
   </tr>
   <tr>
-    <td align="center"><strong>Tracking</strong></td>
+    <td align="center"><b>Issue</b></td>
     <td>
-      <table>
-        <tr align="center">
-          <td></td>
-          <td><strong>Issue</strong></td>
-          <td><strong>Pull Request</strong></td>
-        </tr>
-        <tr align="center">
-          <td><strong>Open</strong></td>
-          <td><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" /></td>
-          <td><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" /></td>
-        </tr>
-        <tr align="center">
-          <td><strong>Closed</strong></td>
-          <td><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" /></td>
-          <td><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" /></td>
-        </tr>
-      </table>
+      <b>Open: </b><img src="https://img.shields.io/github/issues-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" />; <b>Closed: </b><img src="https://img.shields.io/github/issues-closed-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Pull Request</b></td>
+    <td>
+      <b>Open: </b><img src="https://img.shields.io/github/issues-pr-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" />; <b>Closed: </b><img src="https://img.shields.io/github/issues-pr-closed-raw/hugoalh/Minecraft.Java.DataPack.EnchantPlus?color=000000&label=%20" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Download</strong><br />
+      <b>Download</b><br />
       <img src="https://img.shields.io/github/downloads/hugoalh/Minecraft.Java.DataPack.EnchantPlus/total?color=000000&label=%20" />
     </td>
     <td>
@@ -81,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Badge</strong></td>
+    <td align="center"><b>Badge</b></td>
     <td>
       <img src="https://img.shields.io/github/languages/count/hugoalh/Minecraft.Java.DataPack.EnchantPlus?logo=github" />
       <img src="https://img.shields.io/github/languages/top/hugoalh/Minecraft.Java.DataPack.EnchantPlus?logo=github" />
@@ -121,4 +106,4 @@ This data pack is inspired from the listed project:
 
 ## 🐛 Issue
 
-Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues) or [Google Forms](https://goo.gl/forms/yoecFL5qJYVl2d0i2).
+Found any issue in this project? Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues) or [Google Forms](https://forms.gle/RbQF5cgSUc5XeMaK7).
