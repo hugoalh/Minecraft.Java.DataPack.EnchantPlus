@@ -22,4 +22,4 @@
 
 ## Report Vulnerability
 
-Submit the issue via [GitHub (require GitHub account)](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues).
+Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues).
