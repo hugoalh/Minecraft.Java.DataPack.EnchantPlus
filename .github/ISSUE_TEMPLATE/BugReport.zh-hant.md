@@ -1,9 +1,9 @@
 ---
 name: 報告錯誤
-about: 使用中文報告一個錯誤
-title: ''
-labels: ''
-assignees: ''
+about: 報告一個錯誤
+title: ""
+labels: ""
+assignees: ""
 ---
 ## 說明
 

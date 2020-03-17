@@ -1,9 +1,9 @@
 ---
 name: Bug Report
-about: Report a bug in English
-title: ''
-labels: ''
-assignees: ''
+about: Report a bug
+title: ""
+labels: ""
+assignees: ""
 ---
 ## Description
 
