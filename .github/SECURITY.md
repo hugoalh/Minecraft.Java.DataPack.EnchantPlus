@@ -1,11 +1,34 @@
 # Security Policy
 
 ## Supported Version
-| **Version** | **Minecraft Java Version (Target)** | **Support** |
+
+> | **Legend** | **Description** |
+> |:---:|:----|
+> | L | **LTS:** This is long term supported. |
+> | ✔ | **Yes:** This is supported. |
+> | 👎 | **Partly:** This is partly supported due to this version(s) is deprecated by a newer version(s). |
+> | ❌ | **No:** This is not supported due to this version(s) is too old. |
+> | ⚠ | **Issue:** This is not supported due to this version(s) is confirmed contains bug(s) and/or issue(s). |
+
+| **Version** | **Targeted Minecraft Java Data Pack Version** | **Support** |
 |:---:|:---:|:---:|
-| 3.0.6 | 1.14.4 | ✔ |
-| < 3.0.6 | | ❌ |
+| v3.0.6 | 4 | ✔ |
+| < v3.0.6 | *(N/A)* | ❌ |
 
 ## Report Vulnerability
 
-Submit the issue via [GitHub](https://github.com/hugoalh/Minecraft.Java.DataPack.EnchantPlus/issues).
+### Contact
+
+Send an email to anyone who listed in here (click the link to obtain the email address).
+
+- [hugoalh](https://github.com/hugoalh)
+
+### Suggested Content List
+
+- Your GitHub account username (e.g.: `@octocat`)
+- Project index (mostly start with `hugoalh-studio/`)
+- Affected version(s) (must be a supported version(s))
+- Affected file(s)
+- Issue(s) to cause this security issue
+- Common Vulnerabilities and Exposures (CVE) identification number(s)
+- Reference of this security issue
